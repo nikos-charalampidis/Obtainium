@@ -38,7 +38,7 @@ class GeneratedFormTextField extends GeneratedFormItem {
       List<String? Function(String? value)> super.additionalValidators =
           const [],
       this.required = true,
-      this.max = 2,
+      this.max = 1,
       this.hint,
       this.password = false,
       this.textInputType,
